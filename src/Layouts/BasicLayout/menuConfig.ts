@@ -11,6 +11,11 @@ const asideMenuConfig = [
     path: '/dashboard',
     icon: HeartOutlined,
   },
+  {
+    name: 'Canvas',
+    path: '/demo-canvas',
+    icon: HeartOutlined,
+  },
 ];
 
 export { asideMenuConfig };
