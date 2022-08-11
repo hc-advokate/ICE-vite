@@ -4,8 +4,8 @@
   "description": "Ant Design and icejs scaffold, use TypeScript.",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
-    "@ant-design/pro-layout": "^6.38.16",
-    "antd": "^4.21.7",
+    "@ant-design/pro-layout": "^6.38.17",
+    "antd": "^4.22.4",
     "moment": "^2.29.4",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
@@ -13,13 +13,13 @@
   },
   "devDependencies": {
     "@iceworks/spec": "^1.6.0",
-    "@types/react": "^18.0.15",
+    "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
     "build-plugin-antd": "^0.1.4",
     "build-plugin-ignore-style": "^0.1.2",
-    "eslint": "^8.20.0",
-    "ice.js": "^2.6.4",
-    "stylelint": "^14.9.1"
+    "eslint": "^8.21.0",
+    "ice.js": "^2.6.5",
+    "stylelint": "^14.10.0"
   },
   "scripts": {
     "start": "icejs start",
